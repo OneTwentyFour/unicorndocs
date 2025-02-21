@@ -29,7 +29,4 @@ sudo toffget purge (package-name) --rm-user-data -y
 ```
 
 ## RPM (DNF)
-Support for the RPM package manager (which users can interface with using ``dnf``) will be added in toffeeOS Development Version 1.7 for 32/64-bit releases. 
-It will **not** be supported in toffeeOS Development Version 1.7.1, 1.7.2, or 1.7.3 test builds for ARM.
-
-We've forked both the [RPM](https://github.com/Wallymer/rpm) and [DNF](https://github.com/Wallymer/dnf) source repos (both links included here are the public mirrors, our primary forks are hosted internally on our own servers), with the plan being to fetch updates to the package managers periodically with upstream and push applicable updates out to testers.
+We have removed support for RPM/DNF in toffeeOS 2.0. 
