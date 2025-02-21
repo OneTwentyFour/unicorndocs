@@ -9,4 +9,4 @@ unicorn Development Version 1.5.1 or later features an Enterprise mode meant for
 Enterprise Mode must be enabled on an x86_64 (64-bit) build of unicorn Server Development Version 1.5.1 or later, and End Users must be signed into the same network that the unicorn Server Development Version is connected to, and signed into their Server Communicator app with their credentials.
 
 ### Remote Access
-Currently not supported.
+Added in Alpha with API level ``200`` (toffeeOS Development 2.0 and Development Server 2.0). Not officially sanctioned for use.
